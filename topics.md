@@ -9,6 +9,7 @@
 
 ## others 
 
+- [joelmiandra46/awesome-stars](https://github.com/joelmiandra46/awesome-stars) - My Awesome List
 - [joelmiandra46/portfoliomrj](https://github.com/joelmiandra46/portfoliomrj) - 
 - [joelmiandra46/snake](https://github.com/joelmiandra46/snake) - 
 - [joelmiandra46/portfolioMiandra](https://github.com/joelmiandra46/portfolioMiandra) - 
