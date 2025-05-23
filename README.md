@@ -6,6 +6,7 @@
 ## Contents
 
 - [JavaScript](#javascript)
+- [Others](#others)
 - [Vue](#vue)
 
 ## JavaScript 
@@ -14,6 +15,10 @@
 - [joelmiandra46/snake](https://github.com/joelmiandra46/snake) - 
 - [joelmiandra46/portfolioMiandra](https://github.com/joelmiandra46/portfolioMiandra) - 
 - [joelmiandra46/crudreser](https://github.com/joelmiandra46/crudreser) - 
+
+## Others 
+
+- [joelmiandra46/awesome-stars](https://github.com/joelmiandra46/awesome-stars) - My Awesome List
 
 ## Vue 
 
