@@ -5,16 +5,109 @@
 
 ## Contents
 
+- [agent](#agent)
+- [ai](#ai)
+- [ai-agents](#ai-agents)
+- [artificial-intelligence](#artificial-intelligence)
+- [claude-code](#claude-code)
+- [cli](#cli)
+- [deployment](#deployment)
+- [distributed-systems](#distributed-systems)
+- [docker](#docker)
+- [electron](#electron)
+- [iot](#iot)
+- [java](#java)
+- [llm](#llm)
+- [mcp](#mcp)
 - [others](#others)
+- [python](#python)
+- [robotics](#robotics)
+- [security](#security)
+- [typescript](#typescript)
+
+## agent 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## ai 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
+
+## ai-agents 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+
+## artificial-intelligence 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## claude-code 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## cli 
+
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
+
+## deployment 
+
+- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+
+## distributed-systems 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+
+## docker 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+
+## electron 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## iot 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+
+## java 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+
+## llm 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## mcp 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 
 ## others 
 
+- [ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt) - Core IaaS engine and cloud infrastructure foundation of ZSvirt
 - [joelmiandra46/awesome-stars](https://github.com/joelmiandra46/awesome-stars) - My Awesome List
 - [joelmiandra46/portfoliomrj](https://github.com/joelmiandra46/portfoliomrj) - 
 - [joelmiandra46/snake](https://github.com/joelmiandra46/snake) - 
 - [joelmiandra46/portfolioMiandra](https://github.com/joelmiandra46/portfolioMiandra) - 
 - [joelmiandra46/isaGasy](https://github.com/joelmiandra46/isaGasy) - kotranaVue
 - [joelmiandra46/crudreser](https://github.com/joelmiandra46/crudreser) - 
+
+## python 
+
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
+
+## robotics 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+
+## security 
+
+- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+
+## typescript 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 
 
 ## License
