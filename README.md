@@ -5,12 +5,21 @@
 
 ## Contents
 
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Others](#others)
+- [Python](#python)
+- [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Java 
+
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+- [ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt) - Core IaaS engine and cloud infrastructure foundation of ZSvirt
 
 ## JavaScript 
 
+- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
 - [joelmiandra46/portfoliomrj](https://github.com/joelmiandra46/portfoliomrj) - 
 - [joelmiandra46/snake](https://github.com/joelmiandra46/snake) - 
 - [joelmiandra46/portfolioMiandra](https://github.com/joelmiandra46/portfolioMiandra) - 
@@ -19,6 +28,14 @@
 ## Others 
 
 - [joelmiandra46/awesome-stars](https://github.com/joelmiandra46/awesome-stars) - My Awesome List
+
+## Python 
+
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) - Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have th
+
+## TypeScript 
+
+- [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
 
 ## Vue 
 
