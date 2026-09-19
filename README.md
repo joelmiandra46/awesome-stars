@@ -14,7 +14,7 @@
 
 ## Java 
 
-- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 is a multi-protocol, cloud-native, AI-powered, open-source industrial IoT platform evolving toward AI agents. A complete IoT system solution: device connectivity, data acquisition, edge-to-clo
+- [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices
 - [ZSvirt/zsvirt](https://github.com/ZSvirt/zsvirt) - Core IaaS engine and cloud infrastructure foundation of ZSvirt
 
 ## JavaScript 
