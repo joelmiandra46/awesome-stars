@@ -19,7 +19,6 @@
 
 ## JavaScript 
 
-- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
 - [joelmiandra46/portfoliomrj](https://github.com/joelmiandra46/portfoliomrj) - 
 - [joelmiandra46/snake](https://github.com/joelmiandra46/snake) - 
 - [joelmiandra46/portfolioMiandra](https://github.com/joelmiandra46/portfolioMiandra) - 
@@ -27,6 +26,7 @@
 
 ## Others 
 
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 - [joelmiandra46/awesome-stars](https://github.com/joelmiandra46/awesome-stars) - My Awesome List
 
 ## Python 
