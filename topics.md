@@ -15,6 +15,7 @@
 - [electron](#electron)
 - [iot](#iot)
 - [java](#java)
+- [jenkins](#jenkins)
 - [llm](#llm)
 - [mcp](#mcp)
 - [others](#others)
@@ -36,7 +37,7 @@
 
 - [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
-- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 
 ## artificial-intelligence 
 
@@ -52,7 +53,7 @@
 
 ## deployment 
 
-- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 
 ## electron 
 
@@ -65,6 +66,10 @@
 ## java 
 
 - [pnoker/iot-dc3](https://github.com/pnoker/iot-dc3) - IoT DC3 — Connect the Physical World to AI. An open-source Industrial IoT Runtime for Physical AI: 36 protocol drivers, edge-to-cloud data delivery, and an MCP tool gateway so AI agents act on devices
+
+## jenkins 
+
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 
 ## llm 
 
@@ -91,7 +96,7 @@
 
 ## security 
 
-- [decionis/govern](https://github.com/decionis/govern) - Govern any GitHub workflow step on a signed Decionis Decision Dossier — gate deploys, releases, and infra changes; shadow or enforce.
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 
 ## typescript 
 
