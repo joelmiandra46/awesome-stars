@@ -6,6 +6,7 @@
 ## Contents
 
 - [agent](#agent)
+- [agentic-ai](#agentic-ai)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
@@ -27,6 +28,10 @@
 ## agent 
 
 - [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) - Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Clau
+
+## agentic-ai 
+
+- [decionis/govern](https://github.com/decionis/govern) - Govern: one Decionis verdict before a workflow step runs — a deploy, a migration, an infrastructure change, an agent's action — with a signed Decision Dossier of it. GitHub Actions, GitLab CI, Jenkins
 
 ## ai 
 
